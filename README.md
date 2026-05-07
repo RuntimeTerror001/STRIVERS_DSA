@@ -1,1 +1,1 @@
-A repo for Learning DSA through Strivers A-Z DSA course.
+A Repository for Learning DSA through Strivers A-Z DSA course.

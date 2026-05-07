@@ -1,1 +1,1 @@
-A Repository for Learning DSA through Strivers A-Z DSA course.
+A Repository for learning Data Structures and Algorithms (DSA) through Strivers A-Z DSA course.
